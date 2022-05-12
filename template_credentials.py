@@ -1,0 +1,11 @@
+c_id="xxxxxx"
+c_secret="xxxxx"
+pw="xxxx"
+ua="xxxx"
+uname="xxxx"
+
+c_id2="xxxxxx"
+c_secret2="xxxxx"
+pw2="xxxx"
+ua2="xxxx"
+uname2="xxxx"
